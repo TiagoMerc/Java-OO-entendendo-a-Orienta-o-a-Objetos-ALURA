@@ -45,3 +45,27 @@ Vamos ver mais sobre as classes na próxima aula! Agora não só suas caracterí
 **Referências**
 
 ![Referências](./imgs/prints/Referencia.png)
+
+
+### 03. Definindo comportamento
+
+**Métodos com retorno e Métodos com referência**
+
+![Métodos com retorno e Métodos com referência](./imgs/prints/MetodoRetornoMetodoReferencia.png)
+
+**Nessa aula falamos sobre o comportamento que são os métodos.**
+
+Vimos:
+
+- como definir métodos com parâmetros e retorno
+
+- como retornar algo usando a palavra chave return
+
+- como usar a referência this para acessar um atributo
+
+- que podemos passar uma referência como parâmetro do método
+
+- métodos são chamadas a partir da referência usando o operador.
+
+### Composição de objetos
+
