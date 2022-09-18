@@ -83,3 +83,21 @@ Vimos:
 
 ### Encapsulamento e visibilidade 
 
+**Aprendemos nesta aula:**
+
+- Atributos privados, restringindo o acesso aos atributos
+
+- Encapsulamento de código
+
+- Métodos de leitura dos atributos, os getters
+
+- Métodos de modificação dos atributos, os setters
+
+- Getters e Setters de referência
+
+**Encapsulamento e visibilidade**
+
+![Encapsulamento e visibilidade](./imgs/prints/EncapsulamentoEVisibilidade.png)
+
+### Construtores e membros estáticos
+
